@@ -42,11 +42,14 @@ An interactive P&L dashboard designed for a small business to track monthly inco
 - Financial Analysis (P&L Tracking)
 - Data Structuring & Cleaning
 - Business Insight Reporting
-## 🔍 Preview: Warranty Claim Dashboard
-![Warranty Dashboard](warranty_dashboard.jpg)
+## 📸 Dashboard Previews
 
-## 🔍 Preview: Sales P&L Dashboard
-![P&L Dashboard](stock_pl_dashboard.jpg)
+### Warranty Claims Dashboard
+![Warranty Dashboard](Dashboard%20.png)
+
+### Stock P&L Performance Dashboard
+![Stock P&L Dashboard](Excel%20VBA%20Dashboard%20Sample%20%E2%80%93%20Stock%20P%26L.png)
+
 
 ---
 
